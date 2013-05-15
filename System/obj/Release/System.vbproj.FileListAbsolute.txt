@@ -1,0 +1,48 @@
+H:\Programming\Application Environment\Output\Versidyne.System.dll
+H:\Programming\Application Environment\Output\Versidyne.System.pdb
+H:\Programming\Application Environment\Output\Versidyne.System.xml
+H:\Programming\Application Environment\System\obj\Release\ResolveAssemblyReference.cache
+H:\Programming\Application Environment\System\obj\Release\Versidyne.System.Resources.resources
+H:\Programming\Application Environment\System\obj\Release\System.vbproj.GenerateResource.Cache
+H:\Programming\Application Environment\System\obj\Release\Versidyne.System.dll
+H:\Programming\Application Environment\System\obj\Release\Versidyne.System.xml
+H:\Programming\Application Environment\System\obj\Release\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\Versidyne.System.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\Release\Versidyne.System.Resources.resources
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\Release\System.vbproj.GenerateResource.Cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\Release\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\Release\Versidyne.System.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\Release\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\Any\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\Any\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\Any\Versidyne.System.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Projects\Application Environment\Output\Any\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Documents\Programming\Projects\Application Environment\Output\Any\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Projects\Application Environment\Output\Any\Versidyne.System.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Projects\Application Environment\System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\Documents\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.Resources.resources
+C:\Users\Alejandro Gurrola\Documents\Programming\Projects\Application Environment\System\obj\Release\System.vbproj.GenerateResource.Cache
+C:\Users\Alejandro Gurrola\Documents\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Documents\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Projects\Application Environment\Output\Any\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Projects\Application Environment\Output\Any\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Projects\Application Environment\Output\Any\Versidyne.System.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Projects\Application Environment\System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.Resources.resources
+C:\Users\Alejandro Gurrola\Desktop\Programming\Projects\Application Environment\System\obj\Release\ResGen.read.1.tlog
+C:\Users\Alejandro Gurrola\Desktop\Programming\Projects\Application Environment\System\obj\Release\ResGen.write.1.tlog
+C:\Users\Alejandro Gurrola\Desktop\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.pdb
+D:\Users\Alex\Documents\Programming\Projects\Application Environment\Output\Any\Versidyne.System.dll
+D:\Users\Alex\Documents\Programming\Projects\Application Environment\Output\Any\Versidyne.System.pdb
+D:\Users\Alex\Documents\Programming\Projects\Application Environment\Output\Any\Versidyne.System.xml
+D:\Users\Alex\Documents\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.Resources.resources
+D:\Users\Alex\Documents\Programming\Projects\Application Environment\System\obj\Release\System.vbproj.GenerateResource.Cache
+D:\Users\Alex\Documents\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.dll
+D:\Users\Alex\Documents\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.xml
+D:\Users\Alex\Documents\Programming\Projects\Application Environment\System\obj\Release\Versidyne.System.pdb

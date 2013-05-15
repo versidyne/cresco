@@ -1,0 +1,9 @@
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Network.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Network.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Network.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Network\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Network\obj\x86\Release\Versidyne.Network.Resources.resources
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Network\obj\x86\Release\Network.vbproj.GenerateResource.Cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Network\obj\x86\Release\Versidyne.Network.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Network\obj\x86\Release\Versidyne.Network.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Network\obj\x86\Release\Versidyne.Network.pdb

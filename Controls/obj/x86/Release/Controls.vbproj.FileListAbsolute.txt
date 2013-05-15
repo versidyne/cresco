@@ -1,0 +1,9 @@
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Controls.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Controls.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Controls.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Controls\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Controls\obj\x86\Release\Versidyne.Controls.Resources.resources
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Controls\obj\x86\Release\Controls.vbproj.GenerateResource.Cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Controls\obj\x86\Release\Versidyne.Controls.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Controls\obj\x86\Release\Versidyne.Controls.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Controls\obj\x86\Release\Versidyne.Controls.pdb

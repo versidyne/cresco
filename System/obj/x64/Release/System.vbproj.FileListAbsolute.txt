@@ -1,0 +1,12 @@
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\bin\x64\Release\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\bin\x64\Release\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\bin\x64\Release\Versidyne.System.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\x64\Release\Versidyne.System.Resources.resources
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\x64\Release\System.vbproj.GenerateResource.Cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\x64\Release\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\x64\Release\Versidyne.System.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\System\obj\x64\Release\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x64\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x64\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x64\Versidyne.System.xml

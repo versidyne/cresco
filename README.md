@@ -1,4 +1,4 @@
-cresco-windows
+Cresco Library for Windows
 ==============
 
-Cresco Library for Windows
+Lists usage and current classes
