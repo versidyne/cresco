@@ -12,7 +12,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("Versidyne LLC")> 
 <Assembly: AssemblyProduct("System Library")> 
-<Assembly: AssemblyCopyright("Copyright © Versidyne LLC 2010")> 
+<Assembly: AssemblyCopyright("Copyright © Versidyne LLC 2010-2013")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
