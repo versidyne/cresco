@@ -6,20 +6,7 @@ Versidyne.System
 </name>
 </assembly>
 <members>
-<member name="P:Versidyne.System.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:Versidyne.System.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:Versidyne.System.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="M:Versidyne.System.Registry.Add(System.String,System.String,System.String)">
+<member name="M:Versidyne.System.Registry.Add(System.String,System.String,System.String)">
 	<summary>
  Edits the value of a Registry Key. The key will be created if it does not already exist.
  </summary>
@@ -34,6 +21,19 @@ Versidyne.System
 	<param name="Name"></param>
 	<param name="Path"></param>
 	<remarks></remarks>
+</member><member name="P:Versidyne.System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Versidyne.System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Versidyne.System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member>
 </members>
 </doc>

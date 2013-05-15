@@ -49,3 +49,11 @@ D:\Users\Alex\Documents\Programming\Projects\Application Environment\Network\obj
 D:\Users\Alex\Documents\Programming\Projects\Application Environment\Network\obj\Release\Versidyne.Network.dll
 D:\Users\Alex\Documents\Programming\Projects\Application Environment\Network\obj\Release\Versidyne.Network.xml
 D:\Users\Alex\Documents\Programming\Projects\Application Environment\Network\obj\Release\Versidyne.Network.pdb
+C:\Users\Alex\Documents\GitHub\cresco-windows\Output\Any\Versidyne.Network.dll
+C:\Users\Alex\Documents\GitHub\cresco-windows\Output\Any\Versidyne.Network.pdb
+C:\Users\Alex\Documents\GitHub\cresco-windows\Output\Any\Versidyne.Network.xml
+C:\Users\Alex\Documents\GitHub\cresco-windows\Network\obj\Release\Versidyne.Network.Resources.resources
+C:\Users\Alex\Documents\GitHub\cresco-windows\Network\obj\Release\Network.vbproj.GenerateResource.Cache
+C:\Users\Alex\Documents\GitHub\cresco-windows\Network\obj\Release\Versidyne.Network.dll
+C:\Users\Alex\Documents\GitHub\cresco-windows\Network\obj\Release\Versidyne.Network.xml
+C:\Users\Alex\Documents\GitHub\cresco-windows\Network\obj\Release\Versidyne.Network.pdb

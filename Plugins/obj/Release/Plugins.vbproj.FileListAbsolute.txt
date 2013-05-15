@@ -46,3 +46,11 @@ D:\Users\Alex\Documents\Programming\Projects\Application Environment\Plugins\obj
 D:\Users\Alex\Documents\Programming\Projects\Application Environment\Plugins\obj\Release\Versidyne.Plugins.dll
 D:\Users\Alex\Documents\Programming\Projects\Application Environment\Plugins\obj\Release\Versidyne.Plugins.xml
 D:\Users\Alex\Documents\Programming\Projects\Application Environment\Plugins\obj\Release\Versidyne.Plugins.pdb
+C:\Users\Alex\Documents\GitHub\cresco-windows\Output\Any\Versidyne.Plugins.dll
+C:\Users\Alex\Documents\GitHub\cresco-windows\Output\Any\Versidyne.Plugins.pdb
+C:\Users\Alex\Documents\GitHub\cresco-windows\Output\Any\Versidyne.Plugins.xml
+C:\Users\Alex\Documents\GitHub\cresco-windows\Plugins\obj\Release\Versidyne.Plugins.Resources.resources
+C:\Users\Alex\Documents\GitHub\cresco-windows\Plugins\obj\Release\Plugins.vbproj.GenerateResource.Cache
+C:\Users\Alex\Documents\GitHub\cresco-windows\Plugins\obj\Release\Versidyne.Plugins.dll
+C:\Users\Alex\Documents\GitHub\cresco-windows\Plugins\obj\Release\Versidyne.Plugins.xml
+C:\Users\Alex\Documents\GitHub\cresco-windows\Plugins\obj\Release\Versidyne.Plugins.pdb
