@@ -1,9 +1,0 @@
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Protocols.dll
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Protocols.pdb
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Protocols.xml
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Protocols\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Protocols\obj\x86\Release\Versidyne.Protocols.Resources.resources
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Protocols\obj\x86\Release\Protocols.vbproj.GenerateResource.Cache
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Protocols\obj\x86\Release\Versidyne.Protocols.dll
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Protocols\obj\x86\Release\Versidyne.Protocols.xml
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Protocols\obj\x86\Release\Versidyne.Protocols.pdb
