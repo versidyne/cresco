@@ -1,20 +1,13 @@
-// VBConversions Note: VB project level imports
-using System.Collections.Generic;
 using System;
-using System.Diagnostics;
-using System.Data;
-using System.Xml.Linq;
-using Microsoft.VisualBasic;
 using System.Collections;
-using System.Linq;
-// End of VB project level imports
-
 using System.Text;
 using System.Threading;
 using System.Net.Sockets;
 using System.Net.Security;
-using Microsoft.VisualBasic.CompilerServices;
 
+// Remove eventually
+using Microsoft.VisualBasic;
+using Microsoft.VisualBasic.CompilerServices;
 
 namespace Versidyne.Network
 {
@@ -361,8 +354,8 @@ namespace Versidyne.Network
 					{
 						
 						//Send connection to handler
-						Thread HandlerThread = new Thread((ThreadStart) (this.ConnectionHandler((TcpClient) Type.Missing)));
-						HandlerThread.Start(ConClient);
+                        //Thread HandlerThread = new Thread(new ThreadStart(this.ConnectionHandler));
+                        //HandlerThread.Start(ConClient);
 						
 					}
 					
