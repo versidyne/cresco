@@ -1,9 +1,0 @@
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Plugins.dll
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Plugins.pdb
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Plugins.xml
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Plugins\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Plugins\obj\x86\Release\Versidyne.Plugins.Resources.resources
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Plugins\obj\x86\Release\Plugins.vbproj.GenerateResource.Cache
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Plugins\obj\x86\Release\Versidyne.Plugins.dll
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Plugins\obj\x86\Release\Versidyne.Plugins.xml
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Plugins\obj\x86\Release\Versidyne.Plugins.pdb
