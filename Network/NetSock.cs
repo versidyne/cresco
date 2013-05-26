@@ -354,9 +354,9 @@ namespace Versidyne.Network
 					{
 						
 						//Send connection to handler
-                        //Thread HandlerThread = new Thread(new ThreadStart(this.ConnectionHandler));
-                        //HandlerThread.Start(ConClient);
-						
+                        Thread HandlerThread = new Thread(obj => ConnectionHandler(ConClient));
+                        HandlerThread.Start(ConClient);
+                        
 					}
 					
 				}
