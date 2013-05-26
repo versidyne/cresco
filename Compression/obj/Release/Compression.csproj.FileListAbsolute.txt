@@ -1,6 +1,7 @@
 C:\Users\Alex\Documents\GitHub\cresco-windows\Output\Any\Versidyne.Compression.dll
 C:\Users\Alex\Documents\GitHub\cresco-windows\Output\Any\Versidyne.Compression.pdb
 C:\Users\Alex\Documents\GitHub\cresco-windows\Output\Any\Versidyne.Compression.xml
+C:\Users\Alex\Documents\GitHub\cresco-windows\Compression\obj\Release\Compression.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Documents\GitHub\cresco-windows\Compression\obj\Release\Versidyne.Compression.Properties.Resources.resources
 C:\Users\Alex\Documents\GitHub\cresco-windows\Compression\obj\Release\Compression.csproj.GenerateResource.Cache
 C:\Users\Alex\Documents\GitHub\cresco-windows\Compression\obj\Release\Versidyne.Compression.dll
