@@ -1,9 +1,0 @@
-H:\Programming\Application Environment\Compression\bin\Debug\Versidyne.Compression.dll
-H:\Programming\Application Environment\Compression\bin\Debug\Versidyne.Compression.pdb
-H:\Programming\Application Environment\Compression\bin\Debug\Versidyne.Compression.xml
-H:\Programming\Application Environment\Compression\obj\Debug\ResolveAssemblyReference.cache
-H:\Programming\Application Environment\Compression\obj\Debug\Versidyne.Compression.Resources.resources
-H:\Programming\Application Environment\Compression\obj\Debug\Compression.vbproj.GenerateResource.Cache
-H:\Programming\Application Environment\Compression\obj\Debug\Versidyne.Compression.dll
-H:\Programming\Application Environment\Compression\obj\Debug\Versidyne.Compression.xml
-H:\Programming\Application Environment\Compression\obj\Debug\Versidyne.Compression.pdb

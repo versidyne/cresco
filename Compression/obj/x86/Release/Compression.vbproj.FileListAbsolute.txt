@@ -1,9 +1,0 @@
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Compression.dll
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Compression.pdb
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Output\x86\Versidyne.Compression.xml
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Compression\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Compression\obj\x86\Release\Versidyne.Compression.Resources.resources
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Compression\obj\x86\Release\Compression.vbproj.GenerateResource.Cache
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Compression\obj\x86\Release\Versidyne.Compression.dll
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Compression\obj\x86\Release\Versidyne.Compression.xml
-C:\Users\Alejandro Gurrola\Desktop\Programming\Application Environment\Compression\obj\x86\Release\Versidyne.Compression.pdb
