@@ -9,22 +9,20 @@ using System.Net.Security;
 using Microsoft.VisualBasic;
 using Microsoft.VisualBasic.CompilerServices;
 
-namespace Versidyne.Network
-{
-	public class NetSock
-	{
+namespace Versidyne.Network {
+	public class NetSock {
 		
 #region Callouts
 		
-		//Client Based
+		//Client
 		private TcpClient Client = new TcpClient();
 		private NetworkStream ClNetStream;
 		private SslStream ClSslStream;
 		private bool ClSsl = false;
-		//Server Based
+		//Server
 		private TcpListener Listener;
 		private ArrayList Connections = new ArrayList();
-		//Universal Based
+		//Universal
 		private Thread ConnectionThread;
 		
 #endregion
@@ -39,14 +37,11 @@ namespace Versidyne.Network
 		public delegate void DataArrivalEventHandler(byte[] Data);
 		private DataArrivalEventHandler DataArrivalEvent;
 		
-		public event DataArrivalEventHandler DataArrival
-		{
-			add
-			{
+		public event DataArrivalEventHandler DataArrival {
+			add {
 				DataArrivalEvent = (DataArrivalEventHandler) System.Delegate.Combine(DataArrivalEvent, value);
 			}
-			remove
-			{
+			remove {
 				DataArrivalEvent = (DataArrivalEventHandler) System.Delegate.Remove(DataArrivalEvent, value);
 			}
 		}
@@ -61,12 +56,10 @@ namespace Versidyne.Network
 		
 		public event SocketErrorEventHandler SocketError
 		{
-			add
-			{
+			add {
 				SocketErrorEvent = (SocketErrorEventHandler) System.Delegate.Combine(SocketErrorEvent, value);
 			}
-			remove
-			{
+			remove {
 				SocketErrorEvent = (SocketErrorEventHandler) System.Delegate.Remove(SocketErrorEvent, value);
 			}
 		}
@@ -79,14 +72,11 @@ namespace Versidyne.Network
 		public delegate void ConnectionEventHandler(bool Connection);
 		private ConnectionEventHandler ConnectionEvent;
 		
-		public event ConnectionEventHandler Connection
-		{
-			add
-			{
+		public event ConnectionEventHandler Connection {
+			add {
 				ConnectionEvent = (ConnectionEventHandler) System.Delegate.Combine(ConnectionEvent, value);
 			}
-			remove
-			{
+			remove {
 				ConnectionEvent = (ConnectionEventHandler) System.Delegate.Remove(ConnectionEvent, value);
 			}
 		}
@@ -98,14 +88,11 @@ namespace Versidyne.Network
 		public delegate void ConnectionRequestEventHandler(int Connection, bool Connected);
 		private ConnectionRequestEventHandler ConnectionRequestEvent;
 		
-		public event ConnectionRequestEventHandler ConnectionRequest
-		{
-			add
-			{
+		public event ConnectionRequestEventHandler ConnectionRequest {
+			add {
 				ConnectionRequestEvent = (ConnectionRequestEventHandler) System.Delegate.Combine(ConnectionRequestEvent, value);
 			}
-			remove
-			{
+			remove {
 				ConnectionRequestEvent = (ConnectionRequestEventHandler) System.Delegate.Remove(ConnectionRequestEvent, value);
 			}
 		}
@@ -115,36 +102,19 @@ namespace Versidyne.Network
 		
 #region Client Functions
 		
-		public void Connect(string IP, int Port)
-		{
-			
-			try
-			{
-				
+		public void Connect(string IP, int Port) {
+			try {
 				Client = new TcpClient();
-				
 				Client.Connect(IP, Port);
-				
 				if (ConnectionEvent != null)
 					ConnectionEvent(Client.Connected);
-				
 				ConnectionThread = new Thread(new System.Threading.ThreadStart(this.KeepAlive));
 				ConnectionThread.Start();
-				
-			}
-			catch (Exception ex)
-			{
-				
+			} catch (Exception ex) {
 				if (SocketErrorEvent != null)
 					SocketErrorEvent(ex.Message);
-				
 			}
-			
-		}
-		
-		public void Disconnect()
-		{
-			
+		} public void Disconnect() {
 			//Close connection
 			Client.Close();
 			//Close Stream
@@ -154,162 +124,79 @@ namespace Versidyne.Network
 				ConnectionEvent(Client.Connected);
 			//Destroy thread
 			ConnectionThread.Abort();
-			
-		}
-		
-		public void SendData(string Data)
-		{
-			
+		} public void SendData(string Data) {
 			byte[] SendBytes = Encoding.UTF8.GetBytes(Data);
 			SendData(SendBytes);
-			
-		}
-		
-		public void SendData(byte[] Data)
-		{
-			
-			if (ClSsl == true)
-			{
-				
+		} public void SendData(byte[] Data) {
+			if (ClSsl == true) {
 				SendData(Data, ClSslStream);
-				
-			}
-			else
-			{
-				
+			} else {
 				SendData(Data, Client.GetStream());
-				
 			}
-			
-		}
-		
-		public bool Connected
-		{
-			
-			get
-			{
-				
+		} public bool Connected {
+			get {
 				return Client.Connected;
-				
 			}
-			
-		}
-		
-		public bool SSL
-		{
-			
-			get
-			{
-				
+		} public bool SSL {
+			get {
 				return ClSsl;
-				
-			}
-			
-			set
-			{
-				
+			} set {
 				ClSsl = value;
-				
 			}
-			
-		}
-		
-		//Private Functions
-		
-		private void KeepAlive()
-		{
-			
-			try
-			{
-				
+		} private void KeepAlive() {
+			try {
 				bool ClConnected = false;
 				bool ClCanRead = false;
-				
 				if (ClSsl == true)
 				{
-					
 					//Retreive Connection
 					ClSslStream = new SslStream(Client.GetStream());
 					ClConnected = true;
 					ClCanRead = ClSslStream.CanRead;
-					
 				}
 				else
 				{
-					
 					//Retreive Connection
 					ClNetStream = Client.GetStream();
 					ClConnected = Client.Connected;
 					ClCanRead = ClNetStream.CanRead;
-					
 				}
-				
 				//Create Loop
 				while (ClConnected)
 				{
-					
 					//Check if stream is readable
 					if (ClCanRead == true)
 					{
-						
 						// Read the NetworkStream into a byte buffer.
 						byte[] Bytes = new byte[Client.ReceiveBufferSize + 1];
-						
 						//Do
-						
 						int Connection = 0;
-						
-						if (ClSsl == true)
-						{
-							
+						if (ClSsl == true) {
 							Connection = ClSslStream.Read(Bytes, 0, Client.ReceiveBufferSize);
-							
 						}
-						else
-						{
-							
+						else {
 							Connection = ClNetStream.Read(Bytes, 0, Client.ReceiveBufferSize);
-							
 						}
-						
 						//Loop While NetStream.DataAvailable
-						
-						if (Connection == 0)
-						{
-							
+						if (Connection == 0) {
 							//Close socket on thread
 							Disconnect();
-							
 						}
-						else
-						{
-							
+						else {
 							//Output the data received from the server
 							if (DataArrivalEvent != null)
 								DataArrivalEvent(Bytes);
-							
 						}
-						
-					}
-					else
-					{
-						
+					} else {
 						if (SocketErrorEvent != null)
 							SocketErrorEvent("Connection is unreadable.");
-						
 					}
-					
 				}
-				
 			}
-			catch (Exception ex)
-			{
-				
+			catch (Exception ex) {
 				if (SocketErrorEvent != null)
 					SocketErrorEvent(ex.Message);
-				
 			}
-			
 		}
 		
 #endregion

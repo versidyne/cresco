@@ -5,3 +5,11 @@ C:\Users\Alex\Documents\GitHub\cresco-windows\Security\obj\Release\Versidyne.Sec
 C:\Users\Alex\Documents\GitHub\cresco-windows\Security\obj\Release\Security.csproj.GenerateResource.Cache
 C:\Users\Alex\Documents\GitHub\cresco-windows\Security\obj\Release\Versidyne.Security.dll
 C:\Users\Alex\Documents\GitHub\cresco-windows\Security\obj\Release\Versidyne.Security.pdb
+C:\Users\Alex\Documents\GitHub\cresco\Output\Any\Versidyne.Security.dll
+C:\Users\Alex\Documents\GitHub\cresco\Output\Any\Versidyne.Security.pdb
+C:\Users\Alex\Documents\GitHub\cresco\Output\Any\Versidyne.Security.xml
+C:\Users\Alex\Documents\GitHub\cresco\Security\obj\Release\Security.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\cresco\Security\obj\Release\Versidyne.Security.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\cresco\Security\obj\Release\Security.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\GitHub\cresco\Security\obj\Release\Versidyne.Security.dll
+C:\Users\Alex\Documents\GitHub\cresco\Security\obj\Release\Versidyne.Security.pdb

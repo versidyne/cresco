@@ -49,7 +49,7 @@ namespace Versidyne.Plugins
 		/// <value></value>
 		/// <returns></returns>
 		/// <remarks></remarks>
-		string Name {get;}
+		string Title {get;}
 		
 		/// <summary>
 		///

@@ -48,7 +48,7 @@
              <returns></returns>
              <remarks></remarks>
         </member>
-        <member name="P:Versidyne.Plugins.Plugin.Name">
+        <member name="P:Versidyne.Plugins.Plugin.Title">
              <summary>
             
              </summary>
